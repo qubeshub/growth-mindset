@@ -1,9 +1,11 @@
-# How to install R Shiny apps on QUBESHub
+# Cultivating Your Growth Mindset
 
-This is a simple example used to demonstrate what is needed to host your [R Shiny](https://shiny.rstudio.com/) app on [QUBESHub](https://qubeshub.org).  This particular example is Joe Cheng's [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) Shiny app that uses the [iris flower dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set).
+Created by Arietta Fleming-Davies and Jeremy Wojdak as part of BIOMAAP
 
-[Launch on R Studio's website](https://shiny.rstudio.com/gallery/kmeans-example.html)
+BIOMAPP (Biology Students Math Attitudes and Anxiety Program) is an initiative supported with funding from the NATIONAL SCIENCE FOUNDATION. BIOMAAP aims to help undergraduate biology majors improve their attitudes and decrease their anxiety towards mathematics, and thus to help faculty teach quantitative topics in biology. BIOMAAP is a resource for educators who are looking to implement non-invasive techniques to change student attitudes and reduce anxiety towards math.
 
-[Launch on QUBESHub](https://qubeshub.org/tools/shiny-app-ex/invoke)
+<img src="https://qubeshub.org/groups/biomaap/File:/uploads/BioMAAP_logo2.png" width="300px" />
 
-**NOTE**:  You must have an account (*which is free*) in order to run Shiny apps on QUBESHub!
+For more BIOMAAP educational modules and resources, click [HERE](http://biomaap.org/)
+
+Designed & engineered by Impact Media Lab
